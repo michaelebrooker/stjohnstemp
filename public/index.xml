@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Mike Brooker online</title>
+    <link>https://michealbrooker.com/</link>
+    <description>Recent content in Home on Mike Brooker online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2000-{year} michaelbrooker.com All rights reserved.</copyright>
+    <lastBuildDate>Fri, 02 Jul 2021 12:33:57 +0100</lastBuildDate><atom:link href="https://michealbrooker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap</title>
+      <link>https://michealbrooker.com/code/bs5/</link>
+      <pubDate>Fri, 25 Jun 2021 17:16:42 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/bs5/</guid>
+      <description>Needs content here (bs5.md)</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://michealbrooker.com/code/hugo/</link>
+      <pubDate>Fri, 25 Jun 2021 17:16:25 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/hugo/</guid>
+      <description>Is a great static site generator and what I use to run this site. It&#39;|s based on the Go language, which is yet another computer programming language. How many do we need? But Golang has some great new ideas, and to get under the skin of Hugo, you probably need to get a grasp of Hugo&amp;rsquo;s idiosyncratic mode of programming
+Hugo&amp;rsquo;s basic idea is very simple to make everything really simple on the server so it can not be impeded with any unnecessary code running on the server.</description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://michealbrooker.com/code/mac/</link>
+      <pubDate>Fri, 25 Jun 2021 17:16:16 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/mac/</guid>
+      <description>I&amp;rsquo;ve been using Apple Macs since 1987.</description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://michealbrooker.com/code/linux/</link>
+      <pubDate>Fri, 25 Jun 2021 17:16:07 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Win</title>
+      <link>https://michealbrooker.com/code/win/</link>
+      <pubDate>Fri, 25 Jun 2021 17:15:57 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/win/</guid>
+      <description>It&amp;rsquo;s been possible to run a linux shell/sub-system on Windows for a few years now, and this has been a welcome development. This is very handy for web development, and you can run the vim editor if you like that sort of thing - which I do. I&amp;rsquo;ve always been a vi person rather than Emacs.
+I&amp;rsquo;ve never liked the Windows Command shell, and only ever tolerated it probably because I started with the Bourne Shell and got quite familiar with it.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://michealbrooker.com/code/code/</link>
+      <pubDate>Fri, 25 Jun 2021 16:34:29 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/code/code/</guid>
+      <description>Nothing here yet
+(code/code.md)</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://michealbrooker.com/music/</link>
+      <pubDate>Fri, 25 Jun 2021 16:33:01 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/music/</guid>
+      <description>Music stuff goes in here
+(music.md)</description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://michealbrooker.com/web/</link>
+      <pubDate>Fri, 25 Jun 2021 16:30:07 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/web/</guid>
+      <description>The early years It&amp;rsquo;s more than 30 years since Tim Berners-Lee came up with the idea of a web. It started as simple text pages, and folders - or more properly: directories - containing them. So it was the directory structure that determined the way the information was organised. Simple.
+A website was a static arrangement of text files - with a simple mark-up HTML, contained in folders. The user requested a page, and the server sent a copy to the user.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://michealbrooker.com/photos/</link>
+      <pubDate>Fri, 25 Jun 2021 16:29:26 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/photos/</guid>
+      <description>Above: Sugar refinery at Greenwich 1975 from Kodak film and Lith printed.
+I&amp;rsquo;ve always been fascinated by the ability of photography to reveal truths and capture the moment. Photography is a one-way time machine: we can go back.
+Before the arrival of digital photography, developing films and printing on photographic paper was either a smelly, and time-consuming craft done by hand, or an industrial process machine mostly automated. Doing your own processing had a certain &amp;lsquo;expectation moment&amp;rsquo; when you removed films from the spirals they are held in for development, after fixing and washing, when you first see your work, good or bad.</description>
+    </item>
+    
+    <item>
+      <title>Web History</title>
+      <link>https://michealbrooker.com/webhistory/</link>
+      <pubDate>Fri, 25 Jun 2021 11:53:28 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/webhistory/</guid>
+      <description>The early years It&amp;rsquo;s more than 30 years since Tim Berners-Lee came up with the idea of the World Wide Web. It started as simple text pages, and folders - or more properly: directories - containing them. So it was the directory structure that determined the way the information was organised. Simple.
+A website was a static arrangement of text files - with a simple mark-up HTML, contained in folders. The user requested a page, and the server sent a copy to the user.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://michealbrooker.com/about/</link>
+      <pubDate>Wed, 23 Jun 2021 14:57:14 +0100</pubDate>
+      
+      <guid>https://michealbrooker.com/about/</guid>
+      <description>I&amp;rsquo;ve been working in print publishing and then digital media most of my career, later on as a production editor of weekly technical newspapers, editing monthly magazines, from artificial intelligence to desktop publishing, and in medical to construction titles. In 1995 I set up a website for an electronic engineering title and was given the pointy-hat title of Webmaster - highly popular at that time.
+Since then, I&amp;rsquo;ve worked in consultancy and freelanced as a web developer and producer, and over the period from the mid -90s observed the changes and growing of the internet from grey-background text pages with the occasional image, to the simply vast range of technologies, programming languages and frameworks and rich interactive interfaces which are now ubiquitous.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{
+  "name": "micdoc",
+  "version": "1.0.0",
+  "description": "Mike's documentation site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Brooker",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
