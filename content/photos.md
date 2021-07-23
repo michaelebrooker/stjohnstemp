@@ -32,5 +32,3 @@ Time-wise, cost-wise, digital cannot be beaten though. And the quality of digita
 ![Conway Road, South London](../conwayroad2000.jpg)
 
 *Above: 1970s High Rise emerging from Victorian Terraces. South London, 2000, Lith print.*
-
-(photos.md)

@@ -1,0 +1,7 @@
+# set up for Github and netlify
+
+I set up micdoc on github, and then linked it to Netlify, but it did not appear. 
+
+Issue one is my build command is hugo, which would be ok if I had not made public the publish directory thinking that I would not let Netlify build my site, but instead just upload the public folder contents, keeping control of the build myself. 
+
+Then I turned off the build command. Let's do it in stages. 

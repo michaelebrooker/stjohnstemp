@@ -23,7 +23,7 @@
 
     {{ if $currentPage.IsMenuCurrent "main" . }}
         {{- with .Page -}} 
-u        <li>IsMenuCurrent: {{ .Name }}</li>
+        <li>IsMenuCurrent: {{ .Name }}</li>
         {{ end }}
     {{ else  }}
         <li> NOT: IsMenuCurrent: {{ .Page }}{{ .Name }}</li>
@@ -37,5 +37,10 @@ u        <li>IsMenuCurrent: {{ .Name }}</li>
 {{ range .Site.Menus.main }}
     <li class="nav-item{{ if eq $currentPage.URL .Identifier }} active{{ end }}"><a href="{{ .URL }}">{{ .Menu }} - id = {{ .Identifier }} .URL = {{ .URL }}</a></li>
 {{ end }}
+<li> {{ .CurrentSection }} </li>
+<li> {{ .Parent }} </li>
 </ul>
+
 <hr/>
+
+</div>

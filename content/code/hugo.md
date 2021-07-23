@@ -23,6 +23,5 @@ Seems to me it would great to have everything in the theme, and still leave the 
 4. customise your archetypes default.md front matter
 
 
-(code/hugo.md)
 
 
