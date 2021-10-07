@@ -1,6 +1,6 @@
 baseURL = "https://michealbrooker.com/"
 languageCode = "en-us"
-title = "Mike Brooker online"
+title = "Mike Brooker on the Web"
 theme = "midday"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -13,14 +13,17 @@ copyright = "Copyright 2000-{year} michaelbrooker.com All rights reserved."
   lastmod = [":git", "lastmod", "date", "publishDate"]
   publishDate = ["publishDate", "date"]
 
-  
 
 [module]
     [[module.mounts]]
     source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
     target = "assets/js/bootstrap.bundle.min.js"
 
-# Main menu - section
 
-# The menu was removed from this config.toml file and the old one save to the
-# root of this hugo site as config.toml.old
+[params]
+  sausages = 10
+  pre = "<h3>Active"
+  post = "</h3>"
+  
+  
+  

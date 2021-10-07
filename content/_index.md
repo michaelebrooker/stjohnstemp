@@ -3,27 +3,34 @@ title: "Home"
 date: 2021-07-02T12:33:57+01:00
 draft: true
 type: page
-description: "About"
+description: "Welcome"
 menu: main
-weight: 100
-pre: "active"
-post: "not active"
+weight: 10
 keywords:
 author: 
 tags: 
 ---
 
+## You want a website: where do you start?
+The web is now awash with technologies so confusing that even developers are themselves in a quandry about which programming language to learn: there are so many. That's the truth. So how can those who want to a website for business or for a project, make sense of it all? For there are so many different types of services offered: such as companies that claim to provide a drag 'n' drop website creation experience that almost anyone can build a successful website. This might be OK for some people, who don't mind the disadvantages, but if you want to present a professionally experience, you will need to find a professional. There are no shortcuts. 
 
-I have been a web developer since 1995 and I still enjoy coding as much as ever. My background is in publishing and I have worked as an editor and production editor on weekly and monthly technical newspapers and magazines, as well as some consumer titles. This site is just really no more than a blog for my own edification or anyone who happens on it and likes it or finds some interest here. 
+Some providers offer drag 'n' drop DIY sites: Wix does this, and so does Netlify, a newer type of hosting called a Content Delivery Network. There are many, many others. But while there are advantages to free: you need a site that will suit you, or your organisation, not a 'one-size fits all' which fails to promote your unique abilities or products features. 
 
-I'm currently working on websites using Hugo - not Boss - but the static site generator. For many years, many websites have been dynamic, with back-end databases containing all the pages/data, and apps such as Wordpress and Drupal have been the leaders in content managed sites. But back in the 90s, most sites were static HTML pages, with no dynamic content, as any scripting might overload a server, which was in my company's case an expensive Sun SparcStation with often no back-up. So there are some that might wonder why the regression? 
 
-The ecosystem early on was benign compared to the sophisticated criminal networks of today, so that any server running any scripts was not as vulnerable. Today, regardless of how much effort goes into trying to prevent exploits, static pages, at least for sites that are mainly text with images, offer an advantage of being more difficult to hack, and the server serves pages much more quickly when it doesn't have to process scripts to generate a page. The same advantage as 25 years ago. 
+## Too many choices, and too much information
+If you are commissioning a website, don't get bamboozled with technology, but do check the is being built to current standards, using up-to-date software. What matters in the end - at least for SMEs, is how well the site runs, is it fast, and the presentation good - easy to read, and navigate - and is the content is presenting your services or goods in the way you would like to be represented. 
 
-Of course, you could easily build a static site generator in Perl, or PHP and many did. But for some time, dynamic was cooler than static, and especially when Javascript, the default browser scripting language, was unreliable, or differences in the way browsers interpreted Javascript. At that time is was just more reliable to use a server-side script, say for HTML form validation.  
+The cost will be in the end to your advantage. Do be prepared to ask questions: such as how much it will cost in maintainance and how much will new pages cost to publish? And, at what point will it need a complete rewrite? Because web capabilities and the technologies are changing at a very fast rate. In 2021, we are at a watershed because of key new ways of doing things on the web are coming into place, which will allow a faster and smoother experience, as well as the ability to create new kinds of sites.
 
-Now, Javascript, or more properly, Node.js is a very popular server-side programming language too, and for sites that need to do lots of agregating content from many sources it's pretty much becoming king of that hill. 
+{{<floatimageright img="WordPress-logotype-simplified.png" text="WordPress Logo" >}}
 
-Many won't know that Javascript for server-side programming is a return to the past, because Netscape, venders of the original Web Browser, also made servers which used an earlier form of Javascript, which was rather awkward to use, compared to any modern version of the language. 
+So can you make a D-I-Y website in Wordpress? Yes. But it will certainly be better to employ a professional, if you have the budget. Wordpress is still a good option if you have no money, but will you have the time and the skills? 
 
-Nowadays, it certainly makes sense to use the same language in the browser as on the server: obvious synergies, if you want to build real-time data websites or single-page applications.
+## The future
+It's always difficult to guess which way to go in such a dynamic, rapidly changing technology, and I wouldn't myself use Wordpress any more, because there are better options. Static site generators, such as Hugo, offer a faster and more reliable way to build sites that are more secure. And these can be hosted on Github and deployed on state-of-the-art Content Delivery Networks, such as Netlify. 
+
+While Wordpress may do the job for some time yet, it is technology that is probably likely to become less popular over time, as companies such as Netlify now offer more flexible and easier to update packages, albeit for rather more than you will pay for a Wordpress hosting currently. And CDNs, content delivery network style hosting, while not so important to local business, with local customers only, is certainly going to grow quite fast.
+
+
+
+> "The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops."

@@ -92,3 +92,16 @@ blockquote {
     background-color: var(--bs-light);
     border-radius: .3rem;  
 }
+
+section {
+    margin: auto;
+    padding-top: 10px;
+}
+div#sectionleft {
+    float: left;
+    margin-right: 10px;
+}
+div#sectionright {
+    margin: auto;
+}
+    
