@@ -32,6 +32,6 @@ So can you make a D-I-Y website in Wordpress? Yes. But it will certainly be bett
 While Wordpress may do the job, it is technology that is probably likely to become less popular over time, as companies such as Netlify now offer more flexible and easier to update packages. 
 
 
-
+{{<responsive-img img="sugarworks2020.jpg" text="Greenwich refinery" >}}
 
 > "The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops."

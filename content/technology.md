@@ -3,6 +3,7 @@ title: "Technology"
 date: 2021-09-14T15:45:49+01:00
 draft: true
 type: page
+description: Technology
 menu: main
 weight: 20
 keywords:
@@ -10,9 +11,9 @@ author:
 tags: 
 ---
 
-# You want to learn to web programming?
-## Which technologies are going to get you ahead of the game?
-### Javascript / Node
+## You want to learn to web programming?
+### Which technologies are going to get you ahead of the game?
+#### Javascript / Node
 Javascript has been around since the early days, when it wasn't very flexible and only had very basic functionality. It was initially used as as a client-side language in the browser, but Netscape also deployed it early on as a server-side language for its proprietary web servers.
 
 Javascripts ascendency in recent years as a server-side language has been driven by the node.js implementation that runs on desktop machines, providing command line web development tools, such as Microsoft's Visual Studio Code, and of course it runs on servers. There are obvious synergies for running the same language in the browser, and on the server. A major feature of node is its ability to handle concurrent connections very efficiently, something that PHP currently lacks.
@@ -30,11 +31,9 @@ A language still worth learning, and still very widely used. And since Wordpress
 ### Laravel - PHP framework
 Yes, Laravel - the pre-eminent PHP framework - seems awesome. No-one could not be impressed by its capabilities. Is it going to be the future? Is it more than just a protopying system? These are difficult questions to answer. And what of all the other PHP frameworks and that Laravel has dependencies on, such as Symfony?
 
-### Golang and Hugo
-Golang shows a lot of promise as a programming language for the web, and its now quite mature, and has advantages over other competitors. Like Node.js, it's another technology developed by Google Hugo 
+### Hugo and Golang
+Hugo is a ***Static Site Generator*** written in Golang. The language was created at Google to be suited to web and other online applications. It is very different to older, more traditional programming languages, such as PHP and Python, by being unconventional as well as succinct and at the same time powerful.
 
-
-k
 - PHP
 - Golang
 - Web Assembly
