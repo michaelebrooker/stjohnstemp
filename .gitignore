@@ -14,3 +14,9 @@ $RECYCLE.BIN/
 # Other
 # VSCode
 *.code-workspace
+
+# directory for resources only used locally, such as artwork or documentation
+/utility
+
+# ignore json files
+# *.json
