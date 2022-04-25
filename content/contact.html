@@ -1,0 +1,49 @@
+---
+title: "Contact"
+date: 2022-04-21T19:41:12+01:00
+draft: false
+type: page
+description: "Get in touch"
+menu: main
+weight: 40
+keywords:
+author: 
+tags: 
+---
+<div class="row my-5">
+    <div class="col-lg-10">
+<form name="contact" action="/success" method="POST" netlify-honeypot="title" data-netlify="true">
+  <div class="visually-hidden">
+  <label>Title: <input name="title">
+    </label>
+  </div>
+  <div class="mb-3">
+    <label for="name1" class="form-label">Name:</label>
+    <input type="text" class="form-control" id="name1" required>
+  </div>
+  <div class="mb-3">
+    <label for="email1" class="form-label">Email address:</label>
+    <input type="email" class="form-control" id="email1" aria-describedby="emailHelp" required>
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+  <select class="mb-3 form-select" aria-label="Your role:" required>
+      <option selected value="">Role: select from dropdown</option>
+      <option value="community_organiser">Community organiser</option>
+      <option value="volunteer">Volunteer</option>
+      <option value="business_owner">Business owner</option>
+      <option value="sole_trader">Sole trader</option>
+      <option value="other">Other</option>
+  </select>
+  <div class="mb-3">
+    <label for="other_role" class="form-label">Other role name - if you selected 'Other' above:</label>
+    <input type="text" class="form-control" id="other_role">
+  </div>
+<div class="mb-3">
+  <label for="enq_text1" class="form-label">Enquiry outline:</label>
+  <textarea class="form-control" id="enq_text1" rows="3" required></textarea>
+</div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+    </div>
+</div>
+

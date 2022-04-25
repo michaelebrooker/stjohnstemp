@@ -9,9 +9,11 @@ author:
 tags: 
 ---
 
-![Refineries at Greenwich 1975](../thames1975.jpg)
+![Refineries at Greenwich 1975](/img/thames1975.jpg)
 
 *Above: Sugar refinery at Greenwich 1975 from Kodak film and Lith printed.*
+
+The above photo was shot with a Rollieflex camera, which where quite wonderful, if by modern standards quirky. The quality of the build was second to none, and they very resistant to grubby environments, such as farms. Used as a workhourse camera by zillions of professionals.
 
 I've always been fascinated by the ability of photography to reveal truths and capture the moment. Photography is a one-way time machine: we ***can*** go **back**. 
 
@@ -19,7 +21,7 @@ Before the arrival of digital photography, developing films and printing on phot
 
 The other big difference between the old technology and digital, was that the end point was nearly always a physical sheet of photographic paper, and digital is always viewed first on an electronic screen, and many images never reach the paper print stage.
 
-![Refineries Greenwich 2020](../sugarworks2020.jpg)
+![Refineries Greenwich 2020](/img/sugarworks2020.jpg)
 
 *Above, refinery at Greenwich 2020. Smartphone camera*
 
@@ -32,3 +34,7 @@ Time-wise, cost-wise, digital cannot be beaten though. And the quality of digita
 ![Conway Road, South London](../conwayroad2000.jpg)
 
 *Above: 1970s High Rise emerging from Victorian Terraces. South London, 2000, Lith print.*
+
+The photo at the top of the page was shot with a Rollieflex camera, which where quite wonderful, if by modern standards quirky. The quality of the build was second to none, and they very resistant to grubby environments, such as farms. Used as a workhourse camera by zillions of professionals.
+
+

@@ -3,7 +3,7 @@ title: "History"
 date: 2021-09-14T15:40:22+01:00
 draft: true
 type: page
-menu: main
+menu: 
 weight: 30
 keywords:
 author: 
@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Web history
-It is now more than 30 years since **Tim Berners-Lee** thought up the idea of the Web and the core bits of software that make it all happen. Web pages were something you could read, and that was the only interaction. Webmaster was the title given to anyone writing pages in HTML 1.0 and looking afer websites generally. The internet was there, but not the well-integrated structures we find today. And it was slow - you needed a modem to dial-up a connection down a telephone link. Data - page requests - were encoded into audio and returned to your computer in the same format, before being turned into text for display in the browser.
+It is now more than 30 years since **Tim Berners-Lee** thought up the idea of the Web and the core bits of software that make it all happen. Web pages were something you could read, and that was the only interaction. Webmaster was the title given to anyone writing pages in HTML 1.0 and maintaining websites. The internet was there, but not the well-integrated structures we find today. And it was slow - you needed a modem to dial-up a connection down a telephone link. Data - page requests - were encoded into audio and returned to your computer in the same format, before being turned into text for display in the browser.
 
 We are a long way from this simple idea and what was a very simple computer language. HTML can be still written by hand and remains simple, in its simplest form: that is without the use of Cascading Style Sheets - CSS - which allows the presentation - styles: fonts, colours, etc -to be altered easily. 
 
