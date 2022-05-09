@@ -21,9 +21,6 @@ copyright = "Copyright 2000-{year} michaelbrooker.com All rights reserved."
 
 
 [params]
-  sausages = 10
+  test = 10
   pre = "<h3>Active"
   post = "</h3>"
-  
-  
-  
