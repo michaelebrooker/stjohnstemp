@@ -14,9 +14,12 @@ $RECYCLE.BIN/
 # Other
 # VSCode
 *.code-workspace
+# Hugo
+.hugo_build.lock
 
 # directory for resources only used locally, such as artwork or documentation
 /utility
+/resources
 
 # ignore json files
 # *.json
