@@ -14,27 +14,33 @@ tags:
     <div class="col-lg-10">
 <form name="contact" action="/success" method="POST" netlify-honeypot="title" data-netlify="true">
   <div class="visually-hidden">
-  <label>Title: <input name="title"></label>
+  <label>Title: <input name="title">
+    </label>
   </div>
   <div class="mb-3">
-    <label class="form-label">Name: <input type="text" class="form-control" name="name1" required></label>
+    <label for="name1" class="form-label">Name:</label>
+    <input type="text" class="form-control" id="name1" name="name1" required>
   </div>
   <div class="mb-3">
-    <label class="form-label">Email address: <input type="email" class="form-control" name="email1" aria-describedby="emailHelp" required></label>
+    <label for="email1" class="form-label">Email address:</label>
+    <input type="email" class="form-control" id="email1" name="email1" aria-describedby="emailHelp" required>
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
-  <label>Your role:<select class="mb-3 form-select" name="role[]" multiple>
+  <select class="mb-3 form-select" aria-label="Your role:" required>
+      <option selected value="">Role: select from dropdown</option>
       <option value="community_organiser">Community organiser</option>
       <option value="volunteer">Volunteer</option>
       <option value="business_owner">Business owner</option>
       <option value="sole_trader">Sole trader</option>
       <option value="other">Other</option>
-  </select></label>
+  </select>
   <div class="mb-3">
-    <label class="form-label">Other role name - if you selected 'Other' above: <input type="text" class="form-control" name="other_role"></label>
+    <label for="other_role" class="form-label">Other role name - if you selected 'Other' above:</label>
+    <input type="text" class="form-control" id="other_role" name="other_role">
   </div>
 <div class="mb-3">
-  <label  class="form-label">Enquiry outline: <textarea class="form-control" name="enq_text1" rows="3" required></textarea></label>
+  <label for="enq_text1" class="form-label">Enquiry outline:</label>
+  <textarea class="form-control" id="enq_text1" name="enq_text1" rows="3" required></textarea>
 </div>
 <div class="mb-3">
     <div data-netlify-recaptcha="true"></div> 
