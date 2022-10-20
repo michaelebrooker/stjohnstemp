@@ -13,10 +13,7 @@ tags:
 
 {{<floatimageright img="img/mike.jpg" text="Mike Brooker">}}
 
-
-I've been working in print publishing and then digital media most of my career. Up until the mid-1990s, I was a production editor on weekly trade and technical newspapers, and I also edited monthly magazines, from artificial intelligence to desktop publishing. In 1995 I set up a website for a weekly newspaper for electronic design engineers and was given the pointy-hat title of *Webmaster* - highly popular at the time.
-
-Since leaving the publishing industry, I've worked in consultancy and freelanced as a web developer. Over the past 30 plus years, I've observed the very rapid development of web technologies - with many new programming languages coming forward, as well as some which have become less popular.
+I am a freelance web developer, having worked in the industry since the early 1990s. Over the past 30 plus years, I've observed the very rapid development of web technologies - with many new programming languages coming forward, as well as some which have become less popular.
 
 Currently, I work on building community websites, and helping others to build their own sites using the available free hosting resources now offered. Communities are going to become more important as successive governments - at least in the UK - roll-back directly resourcing and running support services, and expecting the voluntary sector to come in and do the heavy lifting.
 
@@ -25,3 +22,5 @@ If you are looking to support your voluntary or charity operations with a web pr
 
 > The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops.
 
+
+I've been working in print publishing and then digital media most of my career. Up until the mid-1990s, I was a production editor on weekly trade and technical newspapers, and I also edited monthly magazines, from artificial intelligence to desktop publishing. In 1995 I set up a website for a weekly newspaper for electronic design engineers and was given the pointy-hat title of *Webmaster* - highly popular at the time.
