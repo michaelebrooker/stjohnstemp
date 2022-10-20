@@ -23,4 +23,3 @@ If you are looking to support your voluntary or charity operations with a web pr
 > The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops.
 
 
-I've been working in print publishing and then digital media most of my career. Up until the mid-1990s, I was a production editor on weekly trade and technical newspapers, and I also edited monthly magazines, from artificial intelligence to desktop publishing. In 1995 I set up a website for a weekly newspaper for electronic design engineers and was given the pointy-hat title of *Webmaster* - highly popular at the time.
