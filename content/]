@@ -1,0 +1,54 @@
+---
+title: "Contact"
+date: 2022-04-21T19:41:12+01:00
+draft:
+type: page
+description: "Get in touch"
+menu: main
+weight: 40
+keywords:
+author:
+tags:
+---
+<div class="row my-5">
+    <div class="col-lg-10">
+    <form name="contact" data-netlify-recaptcha="true" action="/success" method="POST" netlify-honeypot="title" data-netlify="true">
+        <div class="visually-hidden">
+            <label>Title: <input name="title"></label>
+        </div>
+        <div class="mb-3">
+            <label for="name1" class="form-label">Name:</label>
+            <input type="text" class="form-control" id="name1" name="name1" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email address:</label>
+            <input type="email" class="form-control" name="email1" aria-describedby="emailHelp" required>
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+            <label>Your role:</label>
+            <select class="mb-3 form-select" name="role[]" multiple>
+                <option selected>Your community role</option>
+                <option value="community_organiser">Community organiser</option>
+                <option value="volunteer">Volunteer</option>
+                <option value="business_owner">Business owner</option>
+                <option value="sole_trader">Sole trader</option>
+                <option value="other">Other</option>
+            </select>
+        <div class="mb-3">
+            <label class="form-label">Other role name - if you selected 'Other' above:</label>
+            <input type="text" class="form-control" name="other_role">
+        </div>
+        <div class="mb-3">
+            <label  class="form-label">Enquiry outline:</label> 
+            <textarea class="form-control" name="enq_text1" rows="3" required></textarea>
+        </div>
+        <div class="mb-3">
+            <div data-netlify-recaptcha="true"></div> 
+        </div>
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+    </div>
+</div>
+

@@ -13,12 +13,11 @@ tags:
 
 {{<floatimageright img="img/mike.jpg" text="Mike Brooker">}}
 
-I am a freelance web developer, having worked in the industry since the early 1990s. Over the past 30 plus years, I've observed the very rapid development of web technologies - with many new programming languages coming forward, as well as some which have become less popular.
+I have worked as a web developer since the early 1990s and over the past 30 plus years, I've observed the very rapid development of web technologies - with many new programming languages coming forward, as well as some which have become less popular.
 
-Currently, I work on building community websites, and helping others to build their own sites using the available free hosting resources now offered. Communities are going to become more important as successive governments - at least in the UK - roll-back directly resourcing and running support services, and expecting the voluntary sector to come in and do the heavy lifting.
+I started my journey in photography at age 15, with a Kodak Instamatic, and shooting in Black and White Ilford film. I soon moved to a more advanced camera, eventually taking up the Rollieflex, which had been used by many famous photographers, and was still being used by everyday press photographers into the 1970s. 
 
-If you are looking to support your voluntary or charity operations with a web presence, or if your website needs a refresh, please get in touch by filling in the form on my Contact page, and I will get back to you.
-
+Currently, I use a Fujifilm XT-2 mirrorless. But I still have Nikon 35mm manual and an old Mayima RB67 which weighs a few kilos and is best used on a stout tripod. 
 
 > The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops.
 
