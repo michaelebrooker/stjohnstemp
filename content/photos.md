@@ -16,7 +16,7 @@ tags:
 
 The above photo was shot with a Rollieflex Twin-Lens camera, which where quite wonderful, if by modern standards quirky. The quality of the build was second to none. Used as a workhorse camera by zillions of professionals.
 
-I've always been fascinated by the ability of photography to reveal truths and capture the moment. Photography is a one-way time machine: we ***can*** go **back**. 
+I've always been fascinated by the ability of photography to reveal truths and capture the moment. Photography is a one-way time machine: we *can* go back. 
 
 Before the arrival of digital photography, developing films and printing on photographic paper was either a smelly, and time-consuming craft done by hand, or an industrial process machine mostly automated. Doing your own processing had a certain 'expectation moment' when you removed films from the spirals they are held in for development, after fixing and washing, when you first see your work, good or bad. Quite different to digital, where the result is instantly available, and you are able learn much more quickly.
 
@@ -35,7 +35,5 @@ Time-wise, cost-wise, digital cannot be beaten though, and the quality of digita
 ![Conway Road, South London](/img/conwayroad2000.jpg)
 
 *Above: 1970s High Rise emerging from Victorian Terraces. South London, 2000, Lith print.*
-
-The photo at the top of the page was shot with a Rollieflex camera, which where quite wonderful, if by modern standards quirky. The quality of the build was second to none, and they very resistant to grubby environments, such as farms. Used as a workhourse camera by zillions of professionals.
 
 
