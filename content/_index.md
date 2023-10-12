@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2021-07-02T12:33:57+01:00
+date: 2023-10-02T12:33:57+01:00
 draft: false
 type: page
 description: "Welcome"
@@ -11,14 +11,5 @@ author:
 tags: 
 ---
 
-{{<floatimageright img="img/mike.jpg" text="Mike Brooker">}}
 
-I have worked as a web developer since the early 1990s and over the past 30 plus years, I've observed the very rapid development of web technologies - with many new programming languages coming forward, as well as some which have become less popular.
-
-I started my journey in photography at age 15, with a Kodak Instamatic, and shooting in Black and White Ilford film. I soon moved to a more advanced camera, eventually taking up the Rollieflex, which had been used by many famous photographers, and was still being used by everyday press photographers into the 1970s. 
-
-Currently, I use a Fujifilm XT-2 mirrorless. But I still have Nikon 35mm manual and an old Mayima RB67 which weighs a few kilos and is best used on a stout tripod. 
-
-> The shelter of the valley may give you peace, but you will feel alive in the wind of the mountain tops.
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

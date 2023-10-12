@@ -1,11 +1,11 @@
-baseURL = "https://michealbrooker.com/"
+baseURL = "https://stjohnswalton.co.uk/"
 languageCode = "en-us"
-title = "Mike Brooker on the Web"
-theme = "midday"
+title = "St John's Church, Walton, Chesterfield"
+theme = "sjw"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Copyright 2000-{year} michaelbrooker.com All rights reserved."
+copyright = "St John's Church Walton {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]

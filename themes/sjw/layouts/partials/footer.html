@@ -1,0 +1,16 @@
+<footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
+
+      <span class="text-muted">
+
+      <p class="footer-sg">St John's Church takes our duty of care for the Safeguarding of children, young people and vulnerable adults seriously.  If you have any concerns please email in confidence to safeguardingchildren@stjohnswalton.co.uk, or safeguardingadults@stjohnswalton.co.uk</p>
+
+      &copy; {{ replace .Site.Copyright "{year}" now.Year }}  Charity No. 1128490
+
+    </div>
+
+
+  {{- $bootstrap := resources.Get "js/bootstrap.bundle.min.js" -}}
+  {{- $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify -}}
+  <script src="{{$js.RelPermalink}}" defer></script>
+  </footer>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head" . -}}
+    <body>
+        {{- partial "navbar" . -}}
+        <div id="content">
+        {{- block "main" . }}
+        {{- end }}
+        </div>
+        {{- partial "boilerplate" . -}}
+        {{- partial "footer" . -}}
+        
+    </body>
+</html>

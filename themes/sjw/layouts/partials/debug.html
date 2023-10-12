@@ -1,0 +1,51 @@
+
+<div class="container">
+<hr/>
+<h2>Debugging menu / navigation</h2>
+<hr/>
+<h3>HasMenuCurrent?</h3>
+{{ $currentPage := . }}
+<ul>
+{{ range .Site.Menus.main }}
+{{/* The context, ".", is now each one of the pages as it goes through the loop */}}
+
+{{ if $currentPage.HasMenuCurrent "main" . }}
+    <li>HasMenuCurrent: = {{ .Name }}</li>
+{{ end  }}
+
+{{ end }}
+</ul>
+<hr/>
+<h3>IsMenuCurrent?</h3>
+<ul>
+{{ range .Site.Menus.main }}
+{{/* The context, ".", is now each one of the pages as it goes through the loop */}}
+
+{{ if $currentPage.IsMenuCurrent "main" . }}
+    {{- with .Page -}} 
+    <li>IsMenuCurrent: = {{ .Name }}</li>
+    {{ end }}
+{{ end }}
+{{ end }}
+</ul>
+<hr/>
+<ul>
+<li>Forgot what I meant to put here</li>
+</ul>
+<hr/>
+<ul>
+{{ $currentPage := . }}
+<li>.Site.Menus.main</li>
+<ul>
+{{ range .Site.Menus.main }}
+<li class="nav-item{{ if eq $currentPage.URL .Identifier }} active{{ end }}"><a href="{{ .URL }}">{{ .Menu }} - id = {{ .Identifier }} .URL = {{ .URL }}</a></li>
+{{ end }}
+</ul>
+<li>Current section: {{ .CurrentSection }} </li>
+<li>Parent: {{ .Parent }} </li>
+</ul>
+
+<hr/>
+<h1>Page params tests in config.toml</h1>
+<hr/>
+</div>
