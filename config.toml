@@ -5,7 +5,7 @@ theme = "sjw"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "St John's Church Walton {year}."
+copyright = "St John's Church, Walton {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
