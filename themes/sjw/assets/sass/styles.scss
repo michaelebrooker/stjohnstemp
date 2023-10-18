@@ -3,8 +3,19 @@
 // Revision: 0  12/10/2023
 
 
-// using Bootstrap5 
+// using Bootstrap5.3 
 
+// custom colours
+// first import functions and variables
+/*
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+*/
+
+
+// end custom colours
+
+// old custom colours
 $bgcolor: white;
 $hdcolor: dark-grey; 
 $bodycolor: rgb(3, 38, 58);
@@ -13,7 +24,8 @@ $hddcolor: #041c38;
 $logolight: #168cdb;
 $logodark: $hdcolor;
 $h4color: #555555;
-$card-bg-color: rgb(30, 66, 78);
+
+$card-bg-color: grey;
 
 // sticky footer style
 main > .container {
@@ -28,9 +40,6 @@ color: white;
 
 body {
   background-color: $bgcolor;
-  font-family: 'Verdana', sans-serif;
-  font-size: medium;
-  font-weight: normal;
 }
 
 h1 {

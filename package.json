@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "name": "sjw",
+  "version": "1.0.0",
+  "description": "St John's Walton temporary website",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelebrooker/sjw.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Michael Brooker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelebrooker/sjw/issues"
+  },
+  "homepage": "https://github.com/michaelebrooker/sjw#readme"
+}

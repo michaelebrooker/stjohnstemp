@@ -20,6 +20,7 @@ $RECYCLE.BIN/
 # directory for resources only used locally, such as artwork or documentation
 /utility
 /resources
+/doc
 
 # ignore json files
 # *.json
