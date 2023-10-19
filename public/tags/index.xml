@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mike Brooker online</title>
-    <link>https://michealbrooker.com/tags/</link>
-    <description>Recent content in Tags on Mike Brooker online</description>
+    <title>Tags on St John&#39;s Church, Walton, Chesterfield</title>
+    <link>https://stjohnswalton.co.uk/tags/</link>
+    <description>Recent content in Tags on St John&#39;s Church, Walton, Chesterfield</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright 2000-{year} michaelbrooker.com All rights reserved.</copyright><atom:link href="https://michealbrooker.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>St John&#39;s Church, Walton {year}.</copyright><atom:link href="https://stjohnswalton.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
