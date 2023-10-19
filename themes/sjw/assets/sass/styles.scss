@@ -48,14 +48,13 @@ h3 {
   font-weight: lighter;
   color:$hdcolor; }
 
-  h4 {
-    font-family: 'Titillium Web', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    color:$hdcolor; 
-  }
-// splash image
+h4 {
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  color:$hdcolor; }
 
+// splash image
 .footerBrand {
   color: $hddcolor;
   font-size: 1rem;
@@ -64,6 +63,7 @@ h3 {
 .footer-sg {
   font-size: 0.75rem;
 }
+
 
 .nav-link {
   font-family: Verdana, sans-serif;
@@ -80,13 +80,6 @@ blockquote {
   margin: 10px;
   padding: 10px 20px;
   }
-
-.jumbotron {
-    padding: 4rem 2rem;
-    margin-bottom: 2rem;
-    background-color: var(--bs-light);
-    border-radius: .3rem;  
-}
 
 section {
     margin: auto;
