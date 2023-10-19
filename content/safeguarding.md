@@ -1,8 +1,8 @@
 ---
 title: "Safeguarding"
 date: 2023-10-18T13:35:08+01:00
-draft: true
-type: home
+draft: 
+type: page
 description: Safeguarding
 menu:
 keywords:

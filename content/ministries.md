@@ -1,7 +1,7 @@
 ---
 title: "Ministries"
 date: 2023-10-13T11:13:55+01:00
-draft: true
+draft: 
 type: page
 kind: page
 description: Ministries

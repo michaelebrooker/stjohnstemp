@@ -1,7 +1,7 @@
 ---
 title: "Worship"
 date: 2023-10-12T09:40:15+01:00
-draft: true
+draft:
 type: page
 menu: main
 description: Worship

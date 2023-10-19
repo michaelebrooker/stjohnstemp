@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-10-18T13:14:29+01:00
-draft: true
+draft: 
 type: page
 description: Who's who
 menu: main
