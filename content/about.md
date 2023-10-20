@@ -5,7 +5,7 @@ draft:
 type: page
 description: Who's who
 menu: main
-weight: 90
+weight: 100
 keywords:
 author: 
 tags: 

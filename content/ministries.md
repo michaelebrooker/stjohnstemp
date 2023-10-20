@@ -6,7 +6,7 @@ type: page
 kind: page
 description: Ministries
 menu: main
-weight: 30
+weight: 40
 keywords:
 author: 
 tags: 

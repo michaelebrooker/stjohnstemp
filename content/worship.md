@@ -5,7 +5,7 @@ draft:
 type: page
 menu: main
 description: Worship
-weight: 10
+weight: 20
 keywords:
 author: 
 tags: 

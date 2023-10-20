@@ -1,12 +1,12 @@
 <head>
     <title>{{ .Title }}</title>
     <meta charset="utf-8">
-    <meta name="description" content="{{ .Description }}" />
-    <meta name="keywords" content="{{ .Keywords }}"/> 
-    <meta name="author" content="{{- .Site.Author -}}"/>
-    <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
+    <meta name="description" content="{{ .Description }}">
+    <meta name="keywords" content="{{ .Keywords }}"> 
+    <meta name="author" content="{{- .Site.Author -}}">
+    <meta name="dc.relation" content="{{ .Site.BaseURL }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#930DF2" />
+    <meta name="theme-color" content="#930DF2">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
@@ -15,5 +15,5 @@
     {{- $style := resources.Get "sass/main.scss" | toCSS  $options | minify -}}
    
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
-    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico'>
 </head>
