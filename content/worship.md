@@ -13,10 +13,14 @@ tags:
 
 ## Sundays
 #### Morning 9:00 am
-This service follows the traditional pattern of Holy Communion, with hymns from *Songs of Fellowship.*
+This service follows the traditional pattern of Holy Communion, with hymns from *Songs of Fellowship*, and is followed by morning coffee in the Church Centre afterwards. Whether you are a regular communicant or simply enjoy a traditional experience of worship, you will be very warmly welcome to join us.
 
 #### Morning 10:45 am
-Worship, led by the band, with liturgy and song words projected so they are easily followed.
+With a varied pattern of worship across the month, 1045 is characterised by a relaxed approach and a mixture of sung worship led by the band, with liturgy and song words and media projected on both sides of the church.
+
+Across three weeks of the month, this service hosts a full range of activities for children and young people, from creche facilities for the very youngest, through to teenage years and beyond.
+
+The Family Celebration is also followed by coffee and other drinks, sometime even cakes.
 
 #### Evening 8:00 pm
 ***Just Be*** is a gentle time of worship, prayer, reflection and mutual encouragement.
