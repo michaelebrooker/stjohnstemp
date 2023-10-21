@@ -28,12 +28,12 @@ The Family Celebration is also followed by coffee and other drinks, sometime eve
 ---
 
 ## Tuesdays
-#### Evening 11:00 am
+#### Morning: 11:00 am
 Tuesday Worship is more than simply a time of worship together; from the beginning, friendship with Jesus has been an experience of community.
 
 Jesus’ final time of fellowship with His disciples was a meal where, with broken bread and a cup of wine, and the heart of Tuesday Worship is a meal we share together following the service. 
 
-#### Prayer Life 7:30pm
+#### Evening: Prayer Life 7:30pm
 Join us for our weekly evening prayer gathering for a time of listening to God and attentive prayer.
 
 
