@@ -1,11 +1,11 @@
 ---
 title: "Diary"
 date: 2023-10-13T11:13:35+01:00
-draft: 
+draft: true 
 type: page
 description: Diary
 weight: 30
-menu: main
+menu: 
 keywords:
 author: 
 tags: 
