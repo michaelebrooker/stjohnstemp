@@ -11,6 +11,17 @@ keywords:
 author: 
 tags: 
 ---
+
+{{< floatimageright  img="/img/Alpha_Logo_Red.png" text="Alpha Logo" >}}
+## Alpha Course
+**Alpha** is a series of sessions over ten weeks that give people a great opportunity to explore what Christians believe in a relaxed, informal setting. 
+
+We look at key themes of Christian faith, such as who Jesus is, why he died on the Cross, what faith is, and why it’s important. We also explore those dimensions of Christian faith that connect directly with our personal experiences of life, such as suffering, money and possessions, sin, temptation and addictions, and thinking about how we can make the most of our lives.
+
+Our Alpha course runs on Wednesdays at 7:15pm in Church. If you would like to join us, send an email to [alpha@stjohnswalton.co.uk](mailto:alpha@stjohnswalton.co.uk)
+
+---
+
 ## Baptism
 Baptism is the gateway to life in Christ and becoming a member of the Church. If you ever visit an ancient church, this is why you'll always find the font at the back of the church near the door.
 
