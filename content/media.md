@@ -11,11 +11,11 @@ author:
 tags: 
 ---
 
-## Sermons on audio - not working yet 
+## Sermons on audio 
 
-- file here
-- file here
-- file here
+#### Sunday 29th October 2023 - Revd Jo Harbridge
+
+{{< audio mp3="/audio/291023.mp3" >}}
 
 ---
 
