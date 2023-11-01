@@ -20,9 +20,9 @@ Vicar: Rev'd Nick Green CA
 
 ---
 
-![Rev'd Jo Harbridge](/img/revdjo.jpg)
+![Rev'd Jo Harbidge](/img/revdjo.jpg)
 
-Curate: Rev'd Jo Harbridge
+Curate: Rev'd Jo Harbidge
 
 ---
 
