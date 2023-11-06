@@ -11,10 +11,10 @@ author: Mike Brooker
 tags: 
 ---
 
-### 18th November - Advent Fair
+### 18th November - Advent Market
 11AM, 18th November 2023 - in the Church Hall
 
-Cakes and other yummies, as well as Christmas decorations and other fun Christmas items, plus hot drinks and a Christmas buzz.
+Cakes and other yummies, as well as Christmas decorations and other fun Christmas items.
 
 
 --- 
