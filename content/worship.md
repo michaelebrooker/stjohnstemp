@@ -22,7 +22,7 @@ Across three weeks of the month, this service hosts a full range of activities f
 
 The Family Celebration is also followed by coffee and other drinks, sometime even cakes.
 
-#### Evening 8:00 pm
+#### Evening 7:30 pm
 ***Just Be*** is a gentle time of worship, prayer, reflection and mutual encouragement.
 
 ---

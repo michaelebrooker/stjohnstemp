@@ -13,7 +13,11 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 29th October 2023 - Revd Jo Harbidge
+#### Sunday 5th November 2023 - Revd Jo Harbridge
+
+{{< audio mp3="/audio/051123.mp3" >}}
+
+#### Sunday 29th October 2023 - Revd Jo Harbridge
 
 {{< audio mp3="/audio/291023.mp3" >}}
 
