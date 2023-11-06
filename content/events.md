@@ -1,7 +1,7 @@
 ---
 title: "Events"
 date: 2023-11-06T10:08:57Z
-draft: true
+draft: 
 type: page
 description: Events
 menu: main
