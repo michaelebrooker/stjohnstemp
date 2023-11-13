@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 12th November 2023 - Ven Karen Hamblin
+
+{{< audio mp3="/audio/121123.mp3" >}}
+
 #### Sunday 5th November 2023 - Revd Jo Harbridge
 
 {{< audio mp3="/audio/051123.mp3" >}}
