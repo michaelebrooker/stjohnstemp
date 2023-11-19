@@ -13,15 +13,19 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 12th November 2023 - Ven Karen Hamblin
+#### Sunday 19th November 2023 - Revd Nick Green - 9.The Church as army
+
+{{< audio mp3="/audio/191123.mp3" >}}
+
+#### Sunday 12th November 2023 - Ven Karen Hamblin - Remembrance Sunday
 
 {{< audio mp3="/audio/121123.mp3" >}}
 
-#### Sunday 5th November 2023 - Revd Jo Harbridge
+#### Sunday 5th November 2023 - Revd Jo Harbidge - 8.The Church as a Temple
 
 {{< audio mp3="/audio/051123.mp3" >}}
 
-#### Sunday 29th October 2023 - Revd Jo Harbridge
+#### Sunday 29th October 2023 - Revd Jo Harbidge - 7.Church as salt and light
 
 {{< audio mp3="/audio/291023.mp3" >}}
 

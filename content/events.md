@@ -11,15 +11,8 @@ author: Mike Brooker
 tags: 
 ---
 
-### 18th November - Advent Market
-11AM, 18th November 2023 - in the Church Hall
 
-Cakes and other yummies, as well as Christmas decorations and other fun Christmas items.
-
-
---- 
-
-### 25th November - Muddy Advent 
+### Saturday 25th November - Muddy Advent 
 2-4PM, 25th November 2023 
 Refreshments, crafts and outdoor activities suitable for all ages. 
 
@@ -29,10 +22,19 @@ Forage for foliage to make your own natural Christmas decorations, and begin to 
 
 
 ---
-### 25th November - Christmas Concert with Jonathan Viera 
+
+### Saturday Evening 25th November - Christmas Concert with Jonathan Viera 
 7:30PM, 25th November 2023 - Church Hall Adults £12, under 18s £5. Tickets: email events@stjohnswalton.co.uk
+
+# * LAST FEW TICKETS LEFT * Book now!
 
 ***'A Christmas Audience with: Jonathan Veira'***
 
 The acclaimed Christian Opera Singer and Recording artist and entertainer joins us for a fabulous Christmas concert - [www.jonathanveira.com](http://jonathanveira.com)
+
+---
+
+### Friday 1st December - Advent Wreath-making evening
+
+Ticket: £5.00
 
