@@ -35,6 +35,6 @@ The acclaimed Christian Opera Singer and Recording artist and entertainer joins 
 ---
 
 ### Friday 1st December - Advent Wreath-making evening
-
-Ticket: £5.00
+#### Creative workshop
+7-9pm, Tickets: £5.00
 
