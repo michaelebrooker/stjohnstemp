@@ -13,7 +13,7 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 19th November 2023 - Revd Nick Green - 9.The Church as army
+#### Sunday 19th November 2023 - Revd Nick Green - 9.The Church as an army
 
 {{< audio mp3="/audio/191123.mp3" >}}
 
