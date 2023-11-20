@@ -26,7 +26,7 @@ Forage for foliage to make your own natural Christmas decorations, and begin to 
 ### Saturday Evening 25th November - Christmas Concert with Jonathan Viera 
 7:30PM, 25th November 2023 - Church Hall Adults £12, under 18s £5. Tickets: email events@stjohnswalton.co.uk
 
-# * LAST FEW TICKETS LEFT * Book now!
+### * LAST FEW TICKETS LEFT * Book now!
 
 ***'A Christmas Audience with: Jonathan Veira'***
 
@@ -37,4 +37,30 @@ The acclaimed Christian Opera Singer and Recording artist and entertainer joins 
 ### Friday 1st December - Advent Wreath-making evening
 #### Creative workshop
 7-9pm, Tickets: £5.00
+
+---
+
+## Advent at St John's Walton
+
+- Sunday 3rd December, 4pm: Christingle Services for all ages
+- Tuesday 12th December, 11am: Carols and refreshements
+- Sunday 17th December, 6:30pm: Carols by Candlelight
+
+## Christmas Eve, Sunday 24th December
+- 10am: Communion Service with Carols
+- 4pm: Interactive Nativity Service
+- 11:15pm: Midnight Communion
+
+## Christmas Day, Monday 25th December
+10am Joint service at St John's for all ages
+
+---
+
+### Christmas services at St Peter's Holymoorside
+- Sunday 17th December, 4pm: Service of Lessons and Carols
+- Sunday 24th December, 9:30am: Morning Service with Nativity
+
+*St Peter's Holymoorside, Cotton Mill Hill, S42 7EJ*
+
+
 
