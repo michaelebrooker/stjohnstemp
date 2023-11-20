@@ -25,7 +25,7 @@ tags:
 
 {{< audio mp3="/audio/051123.mp3" >}}
 
-#### Sunday 29th October 2023 - Revd Jo Harbidge - 7.Church as salt and light
+#### Sunday 29th October 2023 - Revd Jo Harbidge - 7.The Church as salt and light
 
 {{< audio mp3="/audio/291023.mp3" >}}
 
