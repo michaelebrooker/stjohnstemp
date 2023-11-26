@@ -13,7 +13,7 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 26 November 2023 - Lucy Taylor - 10.The Church as a bride
+#### Sunday 26th November 2023 - Lucy Taylor - 10.The Church as a bride
 
 {{< audio mp3="/audio/261123.mp3" >}}
 
