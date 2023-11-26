@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 26 November 2023 - Lucy Taylor - 10.The Church as a bride
+
+{{< audio mp3="/audio/261123.mp3" >}}
+
 #### Sunday 19th November 2023 - Revd Nick Green - 9.The Church as an army
 
 {{< audio mp3="/audio/191123.mp3" >}}
