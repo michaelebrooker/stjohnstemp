@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 3rd December 2023 - Revd Jo Harbidge - First Sunday in Advent
+
+{{< audio mp3="/audio/031223.mp3" >}}
+
 #### Sunday 26th November 2023 - Lucy Taylor - 10.The Church as a bride
 
 {{< audio mp3="/audio/261123.mp3" >}}

@@ -11,15 +11,8 @@ author: Mike Brooker
 tags: 
 ---
 
-### Friday 1st December - Advent Wreath-making evening
-#### Creative workshop
-7-9pm, Tickets: £5.00
-
----
-
 ## Advent at St John's Walton
 
-- Sunday 3rd December, 4pm: Christingle Services for all ages
 - Tuesday 12th December, 11am: Carols and refreshements
 - Sunday 17th December, 6:30pm: Carols by Candlelight
 
