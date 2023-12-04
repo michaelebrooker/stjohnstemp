@@ -13,7 +13,7 @@ tags:
 
 ## Advent at St John's Walton
 
-- Tuesday 12th December, 11am: Carols and refreshements
+- Tuesday 12th December, 11am: Carols and refreshments
 - Sunday 17th December, 6:30pm: Carols by Candlelight
 
 ## Christmas Eve, Sunday 24th December
