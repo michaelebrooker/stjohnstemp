@@ -13,7 +13,7 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 3rd December 2023 - Revd Julie Stanton - Second Sunday in Advent
+#### Sunday 10th December 2023 - Revd Julie Stanton - Second Sunday in Advent
 
 {{< audio mp3="/audio/101223.mp3" >}}
 
