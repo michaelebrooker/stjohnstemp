@@ -27,7 +27,6 @@ tags:
 ---
 
 ### Christmas services at St Peter's Holymoorside
-- Sunday 17th December, 4pm: Service of Lessons and Carols
 - Monday 24th December, 9:30am: Morning Service with Nativity
 
 *St Peter's Holymoorside, Cotton Mill Hill, S42 7EJ*
