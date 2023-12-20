@@ -17,6 +17,10 @@ tags:
 
 {{< audio mp3="/audio/171223.mp3" >}}
 
+#### Sunday 17th December 2023 - Evening Carol Service
+
+{{< audio mp3="/audio/carol_service_2023.mp3" >}}
+
 #### Sunday 10th December 2023 - Revd Julie Stanton - Second Sunday of Advent
 
 {{< audio mp3="/audio/101223.mp3" >}}
