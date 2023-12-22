@@ -22,12 +22,19 @@ tags:
 - 11:15pm: Midnight Communion
 
 ## Christmas Day, Monday 25th December
-10am Joint service at St John's for all ages
+- 10am Joint service at St John's for all ages
+
+## Sunday 31st January
+- 10am Joint services for all ages
+
+## Sunday 7th January: Epiphany
+- 9am Parish Communion Service
+- 10:45am Morning Worship - with young church groups
 
 ---
 
-### Christmas services at St Peter's Holymoorside
-- Monday 24th December, 9:30am: Morning Service with Nativity
+## Christmas Eve at St Peter's Holymoorside
+- Sunday 24th December, 9:30am: Morning Service with Nativity
 
 *St Peter's Holymoorside, Cotton Mill Hill, S42 7EJ*
 
