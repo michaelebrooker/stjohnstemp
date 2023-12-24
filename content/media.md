@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 24th December 2023 - Revd Jo Harbidge - Fourth Sunday of Advent
+
+{{< audio mp3="/audio/241223.mp3" >}}
+
 #### Sunday 17th December 2023 - Revd Steve Fisher - Third Sunday of Advent
 
 {{< audio mp3="/audio/171223.mp3" >}}
