@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Christmas Day December 2023 - Revd Nick Green - 10am Christmas Morning
+
+{{< audio mp3="/audio/251223.mp3" >}}
+
 #### Sunday 24th December 2023 - Revd Jo Harbidge - Fourth Sunday of Advent
 
 {{< audio mp3="/audio/241223.mp3" >}}
