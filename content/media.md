@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 31st December 2023 - Revd Royston Smith  - First Sunday of Christmas
+
+{{< audio mp3="/audio/311223.mp3" >}}
+
 #### Christmas Day December 2023 - Revd Nick Green - 10am Christmas Morning
 
 {{< audio mp3="/audio/251223.mp3" >}}
