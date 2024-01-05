@@ -4,7 +4,7 @@ date: 2023-11-06T10:08:57Z
 draft: 
 type: page
 description: Events
-menu: 
+menu: main 
 weight: 60
 keywords:
 author: Mike Brooker 
