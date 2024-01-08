@@ -13,6 +13,12 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 7th January 2024 - Revd Jo Harbidge  - Epiphany
+
+{{< audio mp3="/audio/070124.mp3" >}}
+--
+## 2023 sermons
+
 #### Sunday 31st December 2023 - Revd Royston Smith  - First Sunday of Christmas
 
 {{< audio mp3="/audio/311223.mp3" >}}
