@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 21st January 2024 - Revd Jo Harbidge  - Hagar
+
+{{< audio mp3="/audio/210124.mp3" >}}
+
 #### Sunday 14th January 2024 - Revd Nick Green  - 9am Second Sunday of Epiphany
 
 {{< audio mp3="/audio/140124.mp3" >}}
