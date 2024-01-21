@@ -13,7 +13,7 @@ tags:
 
 ## Sermons on audio 
 
-#### Sunday 21st January 2024 - Revd Jo Harbidge  - Hagar
+#### Sunday 21st January 2024 - Revd Julie Stanton - Hagar
 
 {{< audio mp3="/audio/210124.mp3" >}}
 
