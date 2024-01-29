@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 28th January 2024 - Revd Nick Green - Rahab
+
+{{< audio mp3="/audio/280124.mp3" >}}
+
 #### Sunday 21st January 2024 - Revd Julie Stanton - Hagar
 
 {{< audio mp3="/audio/210124.mp3" >}}
