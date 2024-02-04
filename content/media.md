@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 4th February 2024 - Revd Jo Harbidge - Lady Wisdom
+
+{{< audio mp3="/audio/040224.mp3" >}}
+
 #### Sunday 28th January 2024 - Revd Nick Green - Rahab
 
 {{< audio mp3="/audio/280124.mp3" >}}
