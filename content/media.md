@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 11th February 2024 - Revd Jo Harbidge - Elijah and the widow
+
+{{< audio mp3="/audio/110224.mp3" >}}
+
 #### Sunday 4th February 2024 - Revd Jo Harbidge - Lady Wisdom
 
 {{< audio mp3="/audio/040224.mp3" >}}
