@@ -15,7 +15,7 @@ tags:
 
 #### Sunday 18th February 2024 - Julie Stanton - Temptation
 
-{{< audio mp3="/audio/1802241045.mp3" >}}
+{{< audio mp3="/audio/180224.mp3" >}}
 
 #### Sunday 11th February 2024 - Revd Jo Harbidge - Elijah and the widow
 
