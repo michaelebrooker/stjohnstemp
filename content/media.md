@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 18th February 2024 - Julie Stanton - Temptation
+
+{{< audio mp3="/audio/1802241045.mp3" >}}
+
 #### Sunday 11th February 2024 - Revd Jo Harbidge - Elijah and the widow
 
 {{< audio mp3="/audio/1102241045.mp3" >}}
