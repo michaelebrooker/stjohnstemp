@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 25th February 2024 - Revd Nick Green - Second Sunday in Lent
+
+{{< audio mp3="/audio/250224.mp3" >}}
+
 #### Sunday 18th February 2024 - Julie Stanton - Temptation
 
 {{< audio mp3="/audio/180224.mp3" >}}
