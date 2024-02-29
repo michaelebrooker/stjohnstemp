@@ -11,10 +11,10 @@ author: Mike Brooker
 tags: 
 ---
 
-## Sunday 7th January: Epiphany
-- 9am Parish Communion Service
-- 10:45am Morning workship - with young church groups
 
-## Tuesday morning worship
-Tuesday worship will resume on the 9th January 
+![Charity Afternoon Tea flyer](/img/23may24_tea.jpg)
+# Charity Afternoon Tea in aid of Ashgate Hospice
+## Saturday  23rd May 2-4pm at St John's
+Tickets are available from the Church office: Adults £10; Under 11 £5. Entertainment at 3pm
+
 
