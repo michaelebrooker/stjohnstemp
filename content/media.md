@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 3rd March 2024 - Revd Nick Green - Third Sunday in Lent
+
+{{< audio mp3="/audio/030324.mp3" >}}
+
 #### Sunday 25th February 2024 - Revd Nick Green - Second Sunday in Lent
 
 {{< audio mp3="/audio/250224.mp3" >}}
