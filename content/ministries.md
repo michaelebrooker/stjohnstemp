@@ -11,7 +11,7 @@ keywords:
 author: 
 tags: 
 ---
-alpha_logo_2024
+
 {{< floatimageright  img="/img/alpha_logo_2024.png" text="Alpha Logo" >}}
 ## Alpha Course
 Curious about faith? Then join a series of group conversations that freely explore the basics of the Christian faith in an open, friendly environment. 
