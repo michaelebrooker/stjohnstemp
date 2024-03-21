@@ -14,27 +14,25 @@ tags:
 ## Clergy
 
 
-![Rev'd Nick Green](/img/revdnickgreen.jpg)
-
-Vicar: Rev'd Nick Green CA
+Vicar: Revd Nick Green CA
 
 ---
 
-![Rev'd Jo Harbidge](/img/revdjo.jpg)
+![Revd Jo Harbidge](/img/revdjo.jpg)
 
-Curate: Rev'd Jo Harbidge
+Curate: Revd Jo Harbidge
 
 ---
 
-![Rev'd Royston Smith](/img/revdroystonsmith.jpg)
+![Revd Royston Smith](/img/revdroystonsmith.jpg)
 
-Rev'd Royston Smith
+Revd Royston Smith
 SSM - Self-supporting minister
 
 ---
 
-![Rev'd Julie Stanton](/img/revdjuliestanton.jpg)
+![Revd Julie Stanton](/img/revdjuliestanton.jpg)
 
-Rev'd Julie Stanton
+Revd Julie Stanton
 NSM - Non-stipendiary minister
 

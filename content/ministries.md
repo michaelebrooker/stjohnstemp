@@ -11,14 +11,14 @@ keywords:
 author: 
 tags: 
 ---
-
-{{< floatimageright  img="/img/Alpha_Logo_Red.png" text="Alpha Logo" >}}
+alpha_logo_2024
+{{< floatimageright  img="/img/alpha_logo_2024.png" text="Alpha Logo" >}}
 ## Alpha Course
-**Alpha** is a series of sessions over ten weeks that give people a great opportunity to explore what Christians believe in a relaxed, informal setting. 
+Curious about faith? Then join a series of group conversations that freely explore the basics of the Christian faith in an open, friendly environment. 
 
-We look at key themes of Christian faith, such as who Jesus is, why he died on the Cross, what faith is, and why it’s important. We also explore those dimensions of Christian faith that connect directly with our personal experiences of life, such as suffering, money and possessions, sin, temptation and addictions, and thinking about how we can make the most of our lives.
+At each Alpha session, you’ll be hosted in a small group and watch an episode on a different question of faith. Then you have a chance to share your thoughts and hear what others think. You can say anything you like, or nothing at all. Everyone’s welcome. You’re invited, no matter your background or beliefs. It’s free and there’s no pressure to come back. The next course starts on Wed 24th April at 7:15pm.
 
-Our Alpha course runs on Wednesdays at 7:15pm in Church. If you would like to join us, send an email to [alpha@stjohnswalton.co.uk](mailto:alpha@stjohnswalton.co.uk)
+To register your interest, fill in the form overleaf and put it through the church letterbox (on the left by the main entrance) or email alpha@stjohnswalton.co.uk
 
 ---
 
