@@ -18,7 +18,7 @@ Curious about faith? Then join a series of group conversations that freely explo
 
 At each Alpha session, you’ll be hosted in a small group and watch an episode on a different question of faith. Then you have a chance to share your thoughts and hear what others think. You can say anything you like, or nothing at all. Everyone’s welcome. You’re invited, no matter your background or beliefs. It’s free and there’s no pressure to come back. The next course starts on Wed 24th April at 7:15pm.
 
-To register your interest, fill in the form overleaf and put it through the church letterbox (on the left by the main entrance) or email alpha@stjohnswalton.co.uk
+To register your interest email alpha@stjohnswalton.co.uk
 
 ---
 

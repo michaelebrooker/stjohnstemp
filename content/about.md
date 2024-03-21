@@ -16,6 +16,8 @@ tags:
 
 Vicar: Revd Nick Green CA
 
+![Revd Nick Green CA](/img/revdnickgreen.jpg)
+
 ---
 
 ![Revd Jo Harbidge](/img/revdjo.jpg)
