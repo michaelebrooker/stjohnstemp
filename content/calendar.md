@@ -15,11 +15,11 @@ tags:
 
 **Sunday 24th March - Palm Sunday**
 
-_Bible Reading:  Philippians 2.5-11, Mark 11.1-11_
+Bible Reading:  Philippians 2.5-11, Mark 11.1-11
 
 9am Parish Communion Service
 
-10.45am Holy Communion  
+10.45am Holy Communion
 
 7:30pm Just Be
 
@@ -33,13 +33,15 @@ _Bible Reading:  Philippians 2.5-11, Mark 11.1-11_
 
 ## Easter Sunday
 
+***Note: Clocks go forward!***
+
 **Sunday 31st March**
 
-_Bible Reading:  Acts 10.34-43, John 20.1-18_  
+Bible Reading:  Acts 10.34-43, John 20.1-18
 
 9am Parish Communion Service
 
-10.45am All Age Service  ksdf;lsakdjf
+10.45am All Age Service 
 
 *** 
 
@@ -47,13 +49,15 @@ _Bible Reading:  Acts 10.34-43, John 20.1-18_  
 
 **Sunday 24th March - Palm Sunday**
 
-_Bible Reading: Philippians 2.5-11, Mark 11.1-11_
+Bible Reading: Philippians 2.5-11, Mark 11.1-11
 
 9.30 am Holy Communion at St Peter’s
 
+***Note: Clocks go forward!***
 
 **Sunday 31st March - Easter Sunday**
 
-_Bible Reading: Acts 10.34-43, John 20.1-18_  
+Bible Reading: Acts 10.34-43, John 20.1-18
 
 9.30 am Holy Communion at St Peter’s
+
