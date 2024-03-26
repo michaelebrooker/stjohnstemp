@@ -14,9 +14,9 @@ tags:
 ## Clergy
 
 
-Vicar: Revd Nick Green CA
-
 ![Revd Nick Green CA](/img/revdnickgreen.jpg)
+
+Vicar: Revd Nick Green CA
 
 ---
 

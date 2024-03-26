@@ -13,6 +13,10 @@ tags:
 
 ## Sermons on audio 
 
+#### Sunday 24th March 2024 - Revd Nick Green - Palm Sunday 
+
+{{< audio mp3="/audio/240324.mp3" >}}
+
 #### Sunday 17th March 2024 - Revd Royston Smith - Fifth Sunday in Lent 
 
 {{< audio mp3="/audio/170324.mp3" >}}
